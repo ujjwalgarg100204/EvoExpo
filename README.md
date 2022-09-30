@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# EvoExpo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>"EvoExpo" assists people in organizing and managing a variety of events, including hackathons, conferences, webinars, job fairs, university events, and specialized events like art exhibitions, etc. This platform is very customizable with a variety of features including managing events, viewing past events and its analytics, 
+roles, calendar view, reminders, deadlines, custom landing pages, promotional mailings, etc. </p>
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+-Exclusive feature of Roles
+-Role can be given various tasks with deadlines too.
+-Custom landing pages
+-Human Error correction
+     -Provides deadline warnings, push alerts, reminders, and priorities.
+     -
+-Seeing past events
+-Calendar view
+-Financial Management for the event
+-Bulk promotional emails to the participants
+-
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```bash
+git clone https://github.com/ujjwalgarg100204/EvoExpo.git
+```
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Dependencies
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    - " @testing-library/jest-dom": "^5.16.5"
+    - "@testing-library/react": "^13.4.0",
+    - "@testing-library/user-event": "^13.5.0",
+    - "axios": "^0.27.2",
+    - "bootstrap": "^5.2.1",
+    - "framer-motion": "^7.4.0",
+    - "gh-pages": "^4.0.0",
+    - "react": "^18.2.0",
+    - "react-bootstrap": "^2.5.0",
+    - "react-dom": "^18.2.0",
+    - "react-icons": "^4.4.0",
+    - "react-router": "^6.4.1",
+    - "react-router-dom": "^6.4.1",
+    - "react-router-hash-link": "^2.4.3",
+    - "react-scripts": "5.0.1",
+    - "react-scroll": "^1.8.7",
+    - "react-slick": "^0.29.0",
+    - "slick-carousel": "^1.8.1",
+    - "styled-components": "^5.3.6",
+    - "web-vitals": "^2.1.4"
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Screenshots
 
-### `npm run eject`
+## Contributing
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[MIT](LICENSE.txt)
