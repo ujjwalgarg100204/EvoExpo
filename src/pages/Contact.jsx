@@ -1,4 +1,4 @@
-import React,{useState} from 'react'
+import React,{useState, useEffect} from 'react'
 import Axios from 'axios'
 import ContactBox from './ContactBox'
 import address from '../images/address.png'
@@ -12,13 +12,27 @@ import {motion} from 'framer-motion'
 import github from '../images/github.png'
 import '../landingPage.css'
 
+
+const simulateNetworkRequest = () => {
+  return new Promise((resolve) => setTimeout(resolve, 200));
+}
+
 const Contact = () => {
+  const [sending, setSending] = useState(false);
   const url="https://evoexpo-backend-api.herokuapp.com/contact-form"
   const [data, setData] = useState({
     name: "",
     email: "",
     message:""
   })
+
+  useEffect(() => {
+    if (sending) {
+      simulateNetworkRequest().then(() => {
+        setSending(false);
+      });
+    }
+  }, [sending]);
 
   const submit = (e) =>{
     e.preventDefault();
@@ -35,8 +49,12 @@ const Contact = () => {
     const newdata = {...data};
     newdata[e.target.id] = e.target.value
     setData(newdata)
-    console.log(newdata);
   }
+
+  const handleClick = () =>{ 
+    setSending(true);
+  }
+
   return (
     <div id="contact">
       <div className="contactInner">
