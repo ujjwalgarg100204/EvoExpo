@@ -5,18 +5,15 @@ roles, calendar view, reminders, deadlines, custom landing pages, promotional ma
 
 ## Features
 
--Exclusive feature of Roles
--Role can be given various tasks with deadlines too.
--Custom landing pages
--Human Error correction
-     -Provides deadline warnings, push alerts, reminders, and priorities.
-     -
--Seeing past events
--Calendar view
--Financial Management for the event
--Bulk promotional emails to the participants
--
-
+- Exclusive feature of Roles
+- Role can be given various tasks with deadlines too.
+- Custom landing pages
+- Human Error correction
+     - Provides deadline warnings, push alerts, reminders, and priorities.
+- Seeing past events
+- Calendar view
+- Financial Management for the event
+- Bulk promotional emails to the participants
 
 ## Installation
 
