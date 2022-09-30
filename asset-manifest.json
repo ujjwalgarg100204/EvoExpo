@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/EvoExpo/static/css/main.f851b773.css",
+    "main.js": "/EvoExpo/static/js/main.79b185e3.js",
+    "static/js/787.671f1377.chunk.js": "/EvoExpo/static/js/787.671f1377.chunk.js",
+    "static/media/newBackground4.jpg": "/EvoExpo/static/media/newBackground4.9a0f3a75b805b6378138.jpg",
+    "static/media/event3.png": "/EvoExpo/static/media/event3.000e7435758e378a69a5.png",
+    "static/media/linkedinLogo.png": "/EvoExpo/static/media/linkedinLogo.b5622d20d70f68708b39.png",
+    "static/media/presentation.png": "/EvoExpo/static/media/presentation.2d949a93e3bcab6b6622.png",
+    "static/media/event7.png": "/EvoExpo/static/media/event7.83b8c3bd5fb6cd42e39d.png",
+    "static/media/evoExpoLogo.png": "/EvoExpo/static/media/evoExpoLogo.a7f3846d9cc07ca355ca.png",
+    "static/media/download.png": "/EvoExpo/static/media/download.52e6d6c5be1ea7a93af6.png",
+    "static/media/event2.jpg": "/EvoExpo/static/media/event2.a3deda7bef2aefa982d5.jpg",
+    "static/media/event5.jpg": "/EvoExpo/static/media/event5.7bf25de9a12139d34615.jpg",
+    "static/media/feature_2.png": "/EvoExpo/static/media/feature_2.2b466162eafef9cf2b5f.png",
+    "static/media/feature_1.png": "/EvoExpo/static/media/feature_1.801589a0dc8faa4fad28.png",
+    "static/media/event4.webp": "/EvoExpo/static/media/event4.f0855e70ad5ee085ccaf.webp",
+    "static/media/instagram.png": "/EvoExpo/static/media/instagram.51e16c06be72645cb6bf.png",
+    "static/media/feature_3.png": "/EvoExpo/static/media/feature_3.0fadb17c93d531691fd5.png",
+    "static/media/github.png": "/EvoExpo/static/media/github.d7f8da07cfde8fc5cad5.png",
+    "static/media/googleLogo1.png": "/EvoExpo/static/media/googleLogo1.09a9ccd8c05cc05b9ad8.png",
+    "static/media/event1.jpg": "/EvoExpo/static/media/event1.374fb7db7c4accfc027c.jpg",
+    "static/media/email.png": "/EvoExpo/static/media/email.c48516e379d940613bc8.png",
+    "static/media/facebook.png": "/EvoExpo/static/media/facebook.8f98f6d38fb1d849fea1.png",
+    "static/media/phone.png": "/EvoExpo/static/media/phone.0a51cdb53835f51cb978.png",
+    "static/media/discord.png": "/EvoExpo/static/media/discord.31fb96bc305d4f8d1d44.png",
+    "static/media/logo.svg": "/EvoExpo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/EvoExpo/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/EvoExpo/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/EvoExpo/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/EvoExpo/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/EvoExpo/index.html",
+    "main.f851b773.css.map": "/EvoExpo/static/css/main.f851b773.css.map",
+    "main.79b185e3.js.map": "/EvoExpo/static/js/main.79b185e3.js.map",
+    "787.671f1377.chunk.js.map": "/EvoExpo/static/js/787.671f1377.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f851b773.css",
+    "static/js/main.79b185e3.js"
+  ]
+}
