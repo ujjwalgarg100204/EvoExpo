@@ -5,6 +5,7 @@ roles, calendar view, reminders, deadlines, custom landing pages, promotional ma
 
 ## Features
 
+- Mananging events whether virtual or non-virtual.
 - Exclusive feature of Roles
 - Role can be given various tasks with deadlines too.
 - Custom landing pages
